@@ -18,3 +18,21 @@ Steps:
 
 > Caution: During the tracking process, you can't let the computer to enter sleep mode, or it can't be stopped by `F11` 
 
+
+
+![example](.\example.png)
+
+Here is an example graph of the output, and it can actually reveal a lot of things, as you can see:
+
+1. I'm a fan of Vim because `J` and `K` is tapped a lot. 
+2. Interestingly,  `Q` and `Z` are rarely tapped.
+3. No one use the RIGHT `ctrl` and `shift` and `alt` 
+
+
+
+Also, it still has a lot to improve: 
+
+1. the layout is ugly, and not very like a keyboard;
+2. the character on the key can be shown on the keyboard, too;
+3. the program counts the key tap number by the tap value, so it goes wrong when two values share the same key, like `:` `;` 
+

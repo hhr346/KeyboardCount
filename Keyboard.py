@@ -23,7 +23,7 @@ def key_event_handler(event):
 
 # 注册按键事件处理函数
 keyboard.on_press(key_event_handler)
-print('Start tap now')
+print('Start tapping now')
 # 监听键盘事件，直到按下F11退出
 keyboard.wait('f11')
 keyboard.unhook_all()
