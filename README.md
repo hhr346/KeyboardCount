@@ -20,7 +20,7 @@ Steps:
 
 
 
-![example](.\example.png)
+![example](./example.png)
 
 Here is an example graph of the output, and it can actually reveal a lot of things, as you can see:
 
